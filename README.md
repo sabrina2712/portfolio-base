@@ -1,14 +1,4 @@
-# next-css example
-
-This example demonstrates how to use Next.js' built-in CSS imports and CSS modules support.
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-next-css)
-
-## How to use
+# Portfolio
 
 ### Using `create-next-app`
 
