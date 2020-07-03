@@ -3,24 +3,24 @@
     "slug": "project-1",
     "title": "Project 1",
     "description": "Hello I'm a project, bip bop",
-    "link": "//github.com/some-user/some-project"
+    "link": "//github.com/sabrina2712/webgis-react"
   },
   {
     "slug": "project-2",
     "title": "Project 2",
     "description": "Other project",
-    "link": "//github.com/other-user/other-project"
+    "link": "//github.com/sabrina2712/code-challenge"
   },
   {
     "slug": "project-3",
     "title": "Project 3",
     "description": "Hello I'm a project, bip bop",
-    "link": "//github.com/some-user/some-project"
+    "link": "//github.com/sabrina2712/spa-components-modal-sabrina2712"
   },
   {
     "slug": "project-4",
     "title": "Project 4",
     "description": "Other project",
-    "link": "//github.com/other-user/other-project"
+    "link": "//github.com/sabrina2712/spa-jsx-components-react-sabrina2712"
   }
 ]

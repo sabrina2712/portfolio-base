@@ -1,6 +1,8 @@
 import projects from "../../content/projects.json";
 import { Github } from "../../component/socialIcons";
 
+
+
 const Project = ({ title, description, link, slug }) => (
   <main>
     <div>

@@ -4,7 +4,7 @@ import { Twitter, Linkedin, Github } from "./socialIcons";
 
 export default function HelloWorld() {
   const info = {
-    name: "Oliver",
+    name: "Sabrina",
     city: "Berlin",
     occupation: "web-dev",
   };
@@ -14,9 +14,8 @@ export default function HelloWorld() {
       <div className="row">
         <h1>I'm {info.name}</h1>
         <div className={css.description}>
-          I'm a {info.city} based {info.occupation}. Here will be your
-          description. Use this to describe what you do or whatever you feel
-          best describes yourself to a potential employer.
+          I'm a {info.city} based {info.occupation}. Specification in WebGIS and React js.
+          Can develop Web appilcations using HTML,CSS and JavaScript.
         </div>
         <div className={css.socialIcons}>
           <a href="//github.com">
@@ -30,6 +29,7 @@ export default function HelloWorld() {
           </a>
         </div>
       </div>
+
     </div>
   );
 }

@@ -154,3 +154,22 @@ html {
   margin: 0 auto;
   padding: 8px;
 }
+
+
+.project-container {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: space-between;
+  width: 400px;
+  height: 200px;
+  border: 1px solid red;
+  margin: 20px;
+}
+
+.main-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: initial;
+border: green 1px solid;
+}
