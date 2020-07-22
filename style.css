@@ -156,7 +156,7 @@ html {
 }
 
 
-.project-container {
+.project-content {
   display: flex;
   flex-direction: column;
 
@@ -172,4 +172,7 @@ html {
   flex-direction: row;
   flex-wrap: initial;
 border: green 1px solid;
+}
+.container{
+  border: 1px solid blue;
 }
