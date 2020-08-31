@@ -154,7 +154,11 @@ html {
   margin: 0 auto;
   padding: 8px;
 }
+.project-container{
+  display: flex;
 
+  width: 100%;
+}
 
 .project-content {
   display: flex;

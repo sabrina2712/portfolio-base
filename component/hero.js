@@ -19,20 +19,19 @@ import Typography from '@material-ui/core/Typography';
 import { makeStyles, useTheme } from '@material-ui/core/styles';
 
 import { Twitter, Linkedin, Github } from "./socialIcons";
-import ProjectListElement from "./projectListElement"
-const drawerWidth = 150;
 
-  const info = {
+const drawerWidth = 0;
+const info = {
     name: "Sabrina",
     city: "Berlin",
     occupation: "web-dev",
   };
   
 const useStyles = makeStyles((theme) => ({
-  root: {
-    display: 'flex',
-  },
-  drawer: {
+    root: {
+     display: 'flex',
+    },
+    	drawer: {
     [theme.breakpoints.up('sm')]: {
       width: drawerWidth,
       flexShrink: 0,
@@ -158,9 +157,7 @@ const container = window !== undefined ? () => window().document.body : undefine
           I'm a {info.city} based {info.occupation}. Specification in WebGIS and React js.
           Can develop Web appilcations using HTML,CSS and JavaScript.
         </Typography>
-        
-     
-        
+       
       </main>
     </div>
   );
