@@ -133,8 +133,8 @@ const container = window !== undefined ? () => window().document.body : undefine
             classes={{
               paper: classes.drawerPaper,
             }}
-            variant="permanent"
-            open
+              variant="permanent"
+              open
           >
             {drawer}
           </Drawer>
@@ -162,8 +162,6 @@ const container = window !== undefined ? () => window().document.body : undefine
     </div>
   );
 }
-
-
 
 export default ResponsiveDrawer;
 
